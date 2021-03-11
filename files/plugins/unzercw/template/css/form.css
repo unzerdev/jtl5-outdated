@@ -1,0 +1,28 @@
+
+.unzercw-multi-control .unzercw-controls {
+	display: inline-block;
+    margin-right: .3125rem;
+}
+
+.unzercw-confirmation-form {
+	text-align: left;
+	margin-top: 10px;
+}
+
+.unzercw-control-group {
+	margin-bottom: 15px;
+}
+
+.unzercw-control-label {
+	margin-bottom: 1em;
+	text-align: left;
+}
+.unzercw-control-label .unzercw-required {
+	color: #d80000;
+	font-weight: bold;
+}
+
+.unzercw-description,
+.unzercw-help-block {
+	margin-top: 3px;
+}
